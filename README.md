@@ -44,4 +44,15 @@ The Excel dashboard includes: - Summary cards showing average, minimum, and maxi
 values. - Bar charts comparing housing features across price categories. - Interactive slicers for 
 filtering by bedrooms, bathrooms, parking, and other attributes.
 <img width="619" height="484" alt="image" src="https://github.com/user-attachments/assets/7b821a54-cd39-404a-9e1b-202ca92c736d" />
+<img width="370" height="460" alt="image" src="https://github.com/user-attachments/assets/5c0c18f3-5eb0-4ea6-8b92-23becc29594a" />
+<img width="975" height="373" alt="image" src="https://github.com/user-attachments/assets/b8ae5e17-433e-49ba-aa39-47a7f61d5f74" />
+# 6. Conclusion & Recommendations 
+The analysis reveals a strong concentration of properties in the low-price segment, suggesting 
+affordability trends within the dataset. However, houses with additional features such as AC, 
+furnishing, and basements tend to command higher prices. 
+Recommendations: - Real estate developers can improve property value by targeting feature 
+upgrades common in the medium-price segment. - Property listings should emphasize value
+adding features such as AC and basement availability. - Future analysis could incorporate 
+location data to provide deeper market insights. 
+
 
