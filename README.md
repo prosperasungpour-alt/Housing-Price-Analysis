@@ -55,9 +55,9 @@ filtering by bedrooms, bathrooms, parking, and other attributes.
 The analysis reveals a strong concentration of properties in the low-price segment, suggesting 
 affordability trends within the dataset. However, houses with additional features such as AC, 
 furnishing, and basements tend to command higher prices. 
-Recommendations: - Real estate developers can improve property value by targeting feature 
-upgrades common in the medium-price segment. - Property listings should emphasize value
-adding features such as AC and basement availability. - Future analysis could incorporate 
-location data to provide deeper market insights. 
+Recommendations: 
+• Real estate developers can improve property value by targeting feature upgrades common in the medium-price segment.
+• Property listings should emphasize value adding features such as AC and basement availability. 
+• Future analysis could incorporate location data to provide deeper market insights. 
 
 
